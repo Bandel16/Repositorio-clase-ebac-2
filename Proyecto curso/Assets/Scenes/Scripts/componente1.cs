@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Holamundo : MonoBehaviour
+public class componente1 : MonoBehaviour
 {
+<<<<<<< HEAD:Proyecto curso/Assets/Scenes/Scripts/Hola mundo.cs
     private void Awake()
     {
         Debug.Log("Hola Mundo en Awake");
@@ -12,6 +13,18 @@ public class Holamundo : MonoBehaviour
     void Start()
     { 
         Debug.Log("Hola Mundo en Start");
+=======
+    public static GameObject miObjeto;
+
+    private void Awake()
+    {
+        miObjeto = this.gameObject;
+    }
+    // Start is called before the first frame update
+    void Start()
+    {
+      
+>>>>>>> 2963fce (Componentes):Proyecto curso/Assets/Scenes/Scripts/componente1.cs
     }
 
     // Update is called once per frame
