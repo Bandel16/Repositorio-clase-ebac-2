@@ -8,7 +8,7 @@ public class Holav : MonoBehaviour
 public class componente1 : MonoBehaviour
 >>>>>>>> b580eb5 (Componentes):Proyecto curso/Assets/Scenes/Scripts/componente1.cs
 {
-<<<<<<< HEAD:Proyecto curso/Assets/Scenes/Scripts/Hola mundo.cs
+
     private void Awake()
     {
         Debug.Log("Hola en Awake");
@@ -21,16 +21,22 @@ public class componente1 : MonoBehaviour
 ========
     { 
         Debug.Log("Hola Mundo en Start");
-=======
+
+>>>>>>> 8997288 (Edicion componente 1)
     public static GameObject miObjeto;
 
     private void Awake()
     {
         miObjeto = this.gameObject;
+<<<<<<< Updated upstream
+=======
+        
+>>>>>>> Stashed changes
     }
     // Start is called before the first frame update
     void Start()
     {
+<<<<<<< Updated upstream
       
 >>>>>>> 2963fce (Componentes):Proyecto curso/Assets/Scenes/Scripts/componente1.cs
 >>>>>>>> b580eb5 (Componentes):Proyecto curso/Assets/Scenes/Scripts/componente1.cs
@@ -52,3 +58,16 @@ public class componente1 : MonoBehaviour
         Debug.LogError("Hola en LateUpdate");
     }
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+=======
+
+      
+    }
+}
+
+>>>>>>> Stashed changes
+>>>>>>> 8997288 (Edicion componente 1)
