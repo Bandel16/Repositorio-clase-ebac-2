@@ -311,6 +311,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2133960905
 GameObject:
   m_ObjectHideFlags: 0
@@ -423,11 +424,15 @@ Transform:
 =======
 --- !u!114 &963194229
 >>>>>>> 99a9fec (Tarea Practica modulo 5)
+=======
+--- !u!114 &963194229
+>>>>>>> origin/Practica-Modulo-5
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2133960905}
   m_Enabled: 1
@@ -458,11 +463,16 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2316f387a275cb349a243117170ea81a, type: 3}
 =======
+=======
+>>>>>>> origin/Practica-Modulo-5
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 34ac166c84fa24541ba78e2e2cc04471, type: 3}
+<<<<<<< HEAD
 >>>>>>> 99a9fec (Tarea Practica modulo 5)
+=======
+>>>>>>> origin/Practica-Modulo-5
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
@@ -472,6 +482,9 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2133960909}
 =======
 >>>>>>> 99a9fec (Tarea Practica modulo 5)
+=======
+>>>>>>> origin/Practica-Modulo-5
