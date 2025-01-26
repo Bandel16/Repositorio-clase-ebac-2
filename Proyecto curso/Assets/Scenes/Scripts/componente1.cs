@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class componente1 : MonoBehaviour
 {
-<<<<<<< HEAD:Proyecto curso/Assets/Scenes/Scripts/Hola mundo.cs
+
     private void Awake()
     {
         Debug.Log("Hola Mundo en Awake");
@@ -13,16 +13,22 @@ public class componente1 : MonoBehaviour
     void Start()
     { 
         Debug.Log("Hola Mundo en Start");
-=======
+
+>>>>>>> 8997288 (Edicion componente 1)
     public static GameObject miObjeto;
 
     private void Awake()
     {
         miObjeto = this.gameObject;
+<<<<<<< Updated upstream
+=======
+        
+>>>>>>> Stashed changes
     }
     // Start is called before the first frame update
     void Start()
     {
+<<<<<<< Updated upstream
       
 >>>>>>> 2963fce (Componentes):Proyecto curso/Assets/Scenes/Scripts/componente1.cs
     }
@@ -43,4 +49,14 @@ public class componente1 : MonoBehaviour
         Debug.Log("Hola Mundo en Late Update");
     }
 }
+<<<<<<< HEAD
 
+=======
+=======
+
+      
+    }
+}
+
+>>>>>>> Stashed changes
+>>>>>>> 8997288 (Edicion componente 1)
