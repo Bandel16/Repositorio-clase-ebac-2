@@ -6,28 +6,28 @@ public class Holamundo : MonoBehaviour
 {
     private void Awake()
     {
-        Debug.Log("Hola Mundo en void Awake");
+        Debug.Log("Hola Mundo en Awake");
     }
     // Start is called before the first frame update
     void Start()
     { 
-        Debug.Log("Hola Mundo en Void Start");
+        Debug.Log("Hola Mundo en Start");
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.LogWarning("Hola Mundo en Void Update");
+        Debug.LogWarning("Hola Mundo en Update");
     }
 
     private void FixedUpdate()
     {
-        Debug.LogError("Hola Mundo en Void FixedUpdate");
+        Debug.LogError("Hola Mundo en FixedUpdate");
     }
 
     private void LateUpdate()
     {
-        Debug.Log("Hola Mundo en Void Late Update");
+        Debug.Log("Hola Mundo en Late Update");
     }
 }
 
