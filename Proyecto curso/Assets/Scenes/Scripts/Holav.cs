@@ -27,6 +27,6 @@ public class Holav : MonoBehaviour
 
     private void LateUpdate()
     {
-        Debug.LogError("Hola en LateUpdate");
+        Debug.LogError("Hola en LateUpdate.");
     }
 }
