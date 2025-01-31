@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class Holav : MonoBehaviour
+
 
 public class componente1 : MonoBehaviour
 
@@ -12,7 +12,7 @@ public class componente1 : MonoBehaviour
  
     public static GameObject miObjeto;
 
-     public static GameObject miObjeto;
+     
 
 
     private void Awake()

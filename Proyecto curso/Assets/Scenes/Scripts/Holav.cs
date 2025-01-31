@@ -4,9 +4,6 @@ using UnityEngine;
 
 
 public class Holav : MonoBehaviour
-
-public class componente1 : MonoBehaviour
-
 {
 
    
