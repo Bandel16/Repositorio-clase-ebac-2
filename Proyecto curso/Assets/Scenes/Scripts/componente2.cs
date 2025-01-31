@@ -6,6 +6,7 @@ public class componente2 : MonoBehaviour
 {
     private void Awake()
     {
+
         
     }
     // Start is called before the first frame update
@@ -20,3 +21,11 @@ public class componente2 : MonoBehaviour
         
     }
 }
+
+  
+        
+  
+
+ 
+
+
